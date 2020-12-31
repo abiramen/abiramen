@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/abiramen/abiramen/master/intro.png)
 <h2><center>Hey there!</center></h3>
-I'm a first year student at <strong>UNSW Sydney</strong>, and most of my commits at the moment are related to coursework. 
+I'm a second year student at <strong>UNSW Sydney</strong>, and most of my commits at the moment are related to coursework. 
 <h3>Current projects</h3>
 <ul>
 <li>I'm working on <a href = "https://github.com/csesoc/csesoc.unsw.edu.au">CSESoc UNSW's new website</a>.</li>
