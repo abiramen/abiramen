@@ -4,7 +4,7 @@ I'm a third year student and casual academic at <strong>UNSW Sydney</strong>. Mo
 <h3>Current projects</h3>
 <ul>
 <li>I'm the President of, and also write CTFs for <a href = "https://unswsecurity.com">UNSW Security Society</a>.</li>
-<li>I'm the Technical Director at <a href = "https://csesoc.unsw.edu.au">CSESoc UNSW</a>, where I'm primarily responsible for maintaining our infrastructure of , and also discover potential vulnerabilities in various projects for fun.</li>
+<li>I'm the Technical Director at <a href = "https://csesoc.unsw.edu.au">CSESoc UNSW</a>, where I'm primarily responsible for maintaining our infrastructure of several projects, and also discover potential vulnerabilities in various projects for fun.</li>
 <li>I occasionally write articles on my <a href="https://www.abiram.me">website!</a> These primarily include articles that I've written for other students.</li>
 </ul>
 
