@@ -5,7 +5,7 @@ I'm a third year student and casual academic at <strong>UNSW Sydney</strong>. Mo
 <h3>Current projects</h3>
 <ul>
 <li>I'm a course administrator at UNSW, primarily involved with teaching and the overall running of COMP1521, a systems programming course. I also occasionally contribute to <a href="https://github.com/insou22/mipsy">mipsy_web</a>, an education-focused browser-based MIPS32 emulator.
-<li>I'm the President of, and also occasionally write CTFs for <a href = "https://unswsecurity.com">UNSW Security Society</a>.</li>
+<li>I'm the 2023 Secretary and 2022 President, and also occasionally write CTFs for <a href = "https://unswsecurity.com">UNSW Security Society</a>.</li>
 <li>I'm the Technical Director at <a href = "https://csesoc.unsw.edu.au">CSESoc UNSW</a>, where I'm primarily responsible for maintaining our infrastructure of several projects, and also discover potential vulnerabilities in various projects for fun.</li>
 <li>I occasionally write articles on my <a href="https://www.abiram.me">website!</a> These include articles that I've written for other students.</li>
 </ul>
